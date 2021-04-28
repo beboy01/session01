@@ -18,7 +18,7 @@ nombre_entier = 4
 # CrÃ©er objet de type nombre dÃ©cimal
 nombre_decimal = 5.0
 # CrÃ©er un objet de type boolÃ©en
-
+db =True
 
 
 #exo 2
